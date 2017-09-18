@@ -9,5 +9,5 @@ You can get quite good result from simple GAN even though you replace deep convo
 
 
 I got ideas and code from below.
-- [@fcfchollet](https://github.com/fchollet/deep-learning-with-python-notebooks)
+- [@fchollet](https://github.com/fchollet/deep-learning-with-python-notebooks)
 - [@mari-linhares](https://github.com/mari-linhares/DeepLearning/tree/master/GAN-fashion-MNIST)
